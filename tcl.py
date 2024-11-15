@@ -83,6 +83,7 @@ def graficar(serie, filas, columnas):
     # Accede a las gráficas
 
   plt.show();
+  C:\Users\camed\OneDrive\Documentos\Git\Statistics
 
 # Aumenta el número de muestras y su tamaño para verificar tcl
 graficar(serie, 2, 4)
