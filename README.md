@@ -49,7 +49,7 @@ test.shapiro_wilk('data', 0.05)
 
 El script `tcl.py` demuestra cómo, mediante simulaciones, el TCL se manifiesta incluso en distribuciones no normales. A través de la generación de muestras de diferentes tamaños, se observa que las medias muestrales tienden a seguir una distribución normal, independientemente de la distribución original de los datos.
 
-Las simulaciones incluyen la generación de una serie con distribución Beta y el cálculo de la media de varias muestras de tamaños crecientes, lo que permite observar visualmente cómo las distribuciones de las medias se aproximan a la normalidad conforme aumenta el tamaño de las muestras.
+Las simulaciones incluyen la generación de una serie con distribución Beta y el cálculo de la media de varias muestras de tamaños crecientes, lo que permite observar cómo las distribuciones de las medias se aproximan a la normalidad conforme aumenta el tamaño de las muestras.
 
 #### Ejemplo de visualización:
 ```python
